@@ -1,1 +1,21 @@
-/*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:#cbd6cb;
+}
+
+.text-block{
+	width:600px;
+	text-align:center;
+}
+
+p{
+	text-align:center;
+}
+
+img{
+	padding:10px;
+}
+
+h2{
+	text-align:center;
+}
